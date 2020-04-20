@@ -1,1 +1,2 @@
-# -C41-REVISE-P5-WITH-CAR-RACER
+# p5.play-boilerplate
+Boiler plate for p5.play
